@@ -107,9 +107,9 @@ This group project aims to compare the performance of two popular ensemble learn
 | Features Rank  | Features Name  | 
 | :-------------- | :------- | 
 | `1`       | `Thallium`| 
-| `2` | ` Chest pain type` | 
+| `2` | `Chest pain type` | 
 | `3`       | `Number of vessels fluro` | 
-| `4` | ` ST depression` | 
+| `4` | `ST depression` | 
 | `5`       | `Exercise angina` |
 
 ## Project Output
