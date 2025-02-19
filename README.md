@@ -106,11 +106,11 @@ This group project aims to compare the performance of two popular ensemble learn
 
 | Features Rank  | Features Name  | 
 | :-------------- | :------- | 
-| `1`       | `Thallium     `| 
-| `2` | ` Chest pain type      ` | 
-| `3`       | `Number of vessels fluro    ` | 
-| `4` | ` ST depression   ` | 
-| `5`       | `Exercise angina     ` |
+| `1`       | `Thallium`| 
+| `2` | ` Chest pain type` | 
+| `3`       | `Number of vessels fluro` | 
+| `4` | ` ST depression` | 
+| `5`       | `Exercise angina` |
 
 ## Project Output
 - RF-FF = Random Forest Full Feature
@@ -121,7 +121,7 @@ This group project aims to compare the performance of two popular ensemble learn
 | Evaluation   | RF-FF  | AB-FF  | RF-FS | AB-FS |
 | :-------------- | :------- | :----------  | :--------- | :----------- |
 | `Accuracy`  | `0.909`| `0.818`| `0.863`| `0.909`|
-| `Precision` | `0.941` | ` 0.923`| `0.933`        | `0.941`        |
+| `Precision` | `0.941` | `0.923`| `0.933`        | `0.941`        |
 | `Recall`    | `0.842` | `0.631`| `0.736`        | `0.842`        |
 | `F1-Score` | `0.888` | `0.749`| `0.823`        | `0.888`        |
 | `AUC`   | `0.946` | `0.919`| `0.958` | `0.863`        |
