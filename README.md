@@ -125,7 +125,7 @@ This group project aims to compare the performance of two popular ensemble learn
 | `Recall`    | `0.842` | `0.631`| `0.736`        | `0.842`        |
 | `F1-Score` | `0.888` | `0.749`| `0.823`        | `0.888`        |
 | `AUC`   | `0.946` | `0.919`| `0.958` | `0.863`        |
-| `Execution Time (s)`| `0.024` | `0.015`| `0.013`        | `0.012 `        |
+| `Execution Time (s)`| `0.024` | `0.015`| `0.013`        | `0.012`        |
 
 
 `For Full Discussion, Please Read :` [Paper (Indonesia Language)](https://drive.google.com/file/d/1BkcmqolLDl5qX2z1hmjNkqe59oRaY8-O/view)
