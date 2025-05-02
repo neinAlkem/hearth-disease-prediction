@@ -1,7 +1,7 @@
 
 # HEART DISEASE PREDICTION WITH ADA BOOST AND RANDOM FOREST
 
-This group project aims to compare the performance of two popular ensemble learning algorithms—AdaBoost and Random Forest—on a specific dataset under defined conditions. In addition to the algorithm comparison, we incorporate a feature selection process to evaluate and quantify its impact on model performance. The project is implemented in Python, leveraging libraries such as scikit-learn, pandas, and numpy.
+This project aims to compare the performance of two popular ensemble learning algorithms—AdaBoost and Random Forest—on a specific dataset under defined conditions. In addition to the algorithm comparison, we incorporate a feature selection process to evaluate and quantify its impact on model performance. The project is implemented in Python, leveraging libraries such as scikit-learn, pandas, and numpy.
 
 
 ## Data Source
